@@ -4,4 +4,3 @@ utilities_distribution:
   - acl
   - apticron
   - debconf
-  - update-notifier-common
